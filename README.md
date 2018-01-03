@@ -1,2 +1,3 @@
 # hello-world
 first and new repository
+it looks something weird for me as an beginner...but also enthusiastic to learn...I am interested in web development...
